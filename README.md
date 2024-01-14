@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a final-year student pursuing a BSc (Hons) in Computing, and I welcome you to explore my [portfolio 📂](https://c-young02.github.io/portfolio/), showcasing projects that highlight my proficiency in various aspects of computing.<br>🔭 I’m currently working on facial age classification using convolutional neural networks<br>👯 I’m looking to collaborate on an innovative full-stack web application<br>🌱 I'm currently learning about cloud computing and its applications in optimizing web application performance.
+🎓 I'm a final-year student pursuing a BSc (Hons) in Computing<br>👨‍💻 All of my projects are available on my [📂portfolio](https://c-young02.github.io/portfolio/)<br>🔭 I’m currently working on facial age classification using convolutional neural networks<br>🤝 I’m looking to collaborate on an innovative full-stack web application<br>🌱 I'm currently learning about cloud computing and its applications in optimizing web application performance.
 
 
 ## 🌐 Socials:
