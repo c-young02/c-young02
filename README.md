@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a final-year student pursuing a BSc (Hons) in Computing<br>👨‍💻 You can explore my best proejcts on my [📂portfolio](https://c-young02.github.io/portfolio/)<br>📖 Currently, I am deepening my knowledge of C# and its application in full-stack development<br>
+🎓 I am a recent graduate with a BSc (Hons) in Computing.<br>👨‍💻 You can explore my best proejcts on my [📂portfolio](https://c-young02.github.io/portfolio/)<br>📖 Currently, I am deepening my knowledge of C# and its application in full-stack development<br>
 
 
 ## 🌐 Socials:
